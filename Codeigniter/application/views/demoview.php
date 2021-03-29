@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Demo View CSS</title>
-	<style type="text/css">
+	<!--<style type="text/css">
 		h2{
 			color: #f00;
 			font-size: 20px;
@@ -11,8 +11,8 @@
 		p{
 			font-style: italic;
 		}
-	</style>
-<!--<link rel="stylesheet" type="text/css" href="<?php //echo base_url();?>">-->
+	</style>-->
+<link rel="stylesheet" type="text/css" href="<?php //echo base_url();?>">
 </head>
 <body>
 	<h2>Demo View dengan CSS</h2>
